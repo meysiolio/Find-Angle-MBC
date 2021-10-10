@@ -1,8 +1,8 @@
- <center>
  <img src="1440151155-10b2b748ee-rsz_1438840048-2cf71ed69d-findangle.png"
      alt="Markdown Monster icon"
-     style="float: center; margin-right: 10px;" />
-</center>
+     style="float: right; margin-right: 10px;" />
+
+    
 
 ***`ABC`***  is a right triangle, ***`90°`*** at ***`B`***.  
 Therefore, ***`∡ABC = 90°`***.  
