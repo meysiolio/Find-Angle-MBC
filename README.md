@@ -1,6 +1,6 @@
  <img src="1440151155-10b2b748ee-rsz_1438840048-2cf71ed69d-findangle.png"
      alt="Markdown Monster icon"
-     style="float: right; margin-right: 10px;" />
+     style="vertical-align:middle" />
 
     
 
