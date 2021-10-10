@@ -1,6 +1,7 @@
  <img src="1440151155-10b2b748ee-rsz_1438840048-2cf71ed69d-findangle.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: center; margin-right: 10px;" />
+
 
 ***`ABC`***  is a right triangle, ***`90°`*** at ***`B`***.  
 Therefore, ***`∡ABC = 90°`***.  
@@ -21,7 +22,7 @@ Output ***`∡MBC`*** in degrees.
 
 **Note**: Round the angle to the nearest integer.  
 
-**Examples:**
+**Examples:**  
 If angle is 56.5000001°, then output 57°.  
 If angle is 56.5000000°, then output 57°.  
 If angle is 56.4999999°, then output 56°.  
